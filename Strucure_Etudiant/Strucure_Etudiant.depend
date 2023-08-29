@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691655985 source:c:\users\tshek\documents\cours c\exercice\strucure_etudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
